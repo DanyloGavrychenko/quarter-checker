@@ -32,3 +32,5 @@ if(x == '' || y == '') {
    print('Point is in the beginning of coordinate system!');
 }
 ```
+
+Project published: https://danylogavrychenko.github.io/quarter-checker/
